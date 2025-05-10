@@ -1,5 +1,7 @@
 # MOGIG: Micro-meteorite and Other General Information Gatherer
 
+![apex-mogig](https://github.com/user-attachments/assets/8aa32530-c3a2-4e37-8d29-de4055b29c4d)
+
 ## Project Overview
 
 MOGIG is a high-altitude balloon project by Year 9 students from Cambridge, UK.
