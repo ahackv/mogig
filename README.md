@@ -2,6 +2,11 @@
 
 ![apex-mogig](https://github.com/user-attachments/assets/8aa32530-c3a2-4e37-8d29-de4055b29c4d)
 
+## Dashboard
+
+<img width="1388" alt="image" src="https://github.com/user-attachments/assets/9718a329-ae07-44f6-bc00-53f77754c1db" />
+
+
 ## Project Overview
 
 MOGIG is a high-altitude balloon project by Year 9 students from Cambridge, UK.
